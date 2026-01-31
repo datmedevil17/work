@@ -1,0 +1,14 @@
+/home/datmedevil17/work/solana-workspace/target/release/deps/libserde-6c46396614c35bcf.rmeta: /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /home/datmedevil17/work/solana-workspace/target/release/build/serde-a8935e18b71fd7f2/out/private.rs
+
+/home/datmedevil17/work/solana-workspace/target/release/deps/libserde-6c46396614c35bcf.rlib: /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /home/datmedevil17/work/solana-workspace/target/release/build/serde-a8935e18b71fd7f2/out/private.rs
+
+/home/datmedevil17/work/solana-workspace/target/release/deps/serde-6c46396614c35bcf.d: /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /home/datmedevil17/work/solana-workspace/target/release/build/serde-a8935e18b71fd7f2/out/private.rs
+
+/home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs:
+/home/datmedevil17/work/solana-workspace/target/release/build/serde-a8935e18b71fd7f2/out/private.rs:
+
+# env-dep:OUT_DIR=/home/datmedevil17/work/solana-workspace/target/release/build/serde-a8935e18b71fd7f2/out

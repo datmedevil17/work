@@ -1,0 +1,11 @@
+/home/datmedevil17/work/solana-workspace/target/debug/deps/borsh-b9e7a270a579c072.d: /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/lib.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/de/mod.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/de/hint.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/schema.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/schema_helpers.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/ser/mod.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/ser/helpers.rs
+
+/home/datmedevil17/work/solana-workspace/target/debug/deps/libborsh-b9e7a270a579c072.rmeta: /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/lib.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/de/mod.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/de/hint.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/schema.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/schema_helpers.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/ser/mod.rs /home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/ser/helpers.rs
+
+/home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/lib.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/de/mod.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/de/hint.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/schema.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/schema_helpers.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/ser/mod.rs:
+/home/datmedevil17/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.10.4/src/ser/helpers.rs:
